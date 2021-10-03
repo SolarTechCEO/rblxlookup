@@ -14,5 +14,5 @@ You must have the 4 following dependents installed:
 - Request Promise (v4)
 
 ## Questions/Concerns 
-**If you have any questions or concerns please contact our support team in our discord! </br>
-Link to our discord: https://discord.gg/DtGaJJXt9W**
+**_If you have any questions or concerns please contact our support team in our discord!_** </br>
+**Link to our discord: https://discord.gg/DtGaJJXt9W**
