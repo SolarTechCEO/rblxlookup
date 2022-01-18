@@ -18,7 +18,8 @@ module.exports = class rblxlookup extends Command {
 		   {
 			  type: 'user',
 			  prompt: 'Please mention the user you would like to roblox search!',
-			  key: 'argUser'
+			  key: 'argUser',
+			  default: ""
 		   }
 		 ]
 	  });
@@ -32,6 +33,10 @@ module.exports = class rblxlookup extends Command {
 		msgObject.reply(`You are currently blacklisted from this techonolgy!`);
 		return;
 	} 
+	  
+	  if (argUser === "") {
+		argUser = msgObject.author
+	  }
 
   const blacklist = db.get(`blacklist_${argUser.id}`);
 
