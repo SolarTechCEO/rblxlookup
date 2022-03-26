@@ -4,6 +4,9 @@ Solar Technology Official Bots rblxlookup command! I recently decided to release
 
 ## Files
 Current Files:
+- bot.js (Main Function of the Bot)
+- server.js (Acts as the server so you can keeep the bot online)
+- config.json (Put your token here for this to work)
 - roverapirblxlookup.js (This is the version of rblxlookup command but it uses the RoverAPI)
 - bloxlinkapirblxlookup.js (This is the version of rblxlookup command but is uses the BloxlinkAPI)
 
