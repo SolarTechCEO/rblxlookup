@@ -1,5 +1,6 @@
 # rblxlookup
-Solar Technology Official Bots rblxlookup command! I recently decided to release this to the public cause I feel that some people may want this.
+Solar Technology Official Bots rblxlookup command! I recently decided to release this to the public cause I feel that some people may want this.|
+**I would recommend running this on a website such as https://replit.com/ and use https://uptimerobot.com/ to keep the bot alive 24/7!**
 
 ## Files
 Current Files:
